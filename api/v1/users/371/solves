@@ -1,0 +1,1 @@
+{"success": true, "data": [{"type": "correct", "date": "2021-09-23T18:52:05+00:00", "challenge": {"value": 400, "name": "Raycaster (backdoor)", "id": 81, "category": "Reverse"}, "challenge_id": 81, "id": 3743, "team": null, "user": {"name": "igor", "id": 371}}], "meta": {"count": 1}}

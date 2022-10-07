@@ -1,0 +1,1 @@
+{"success": true, "data": [{"type": "correct", "date": "2021-09-23T16:19:45+00:00", "challenge": {"value": 50, "name": "SQLi 1", "id": 4, "category": "SQLi"}, "challenge_id": 4, "id": 3697, "team": null, "user": {"name": "strix", "id": 29}}], "meta": {"count": 1}}

@@ -1,0 +1,1 @@
+{"success": true, "data": [{"type": "correct", "date": "2021-09-24T19:11:54+00:00", "challenge": {"value": 400, "name": "Simple notes", "id": 52, "category": "Pwn"}, "challenge_id": 52, "id": 4052, "team": null, "user": {"name": "shell", "id": 205}}], "meta": {"count": 1}}
